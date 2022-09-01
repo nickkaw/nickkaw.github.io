@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-// <img width="300px" class="rounded float-start pe-4" src="img/js_logo.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/js_logo.png">
 
 There are innate differences when trying to learn computer science versus other standard subjects. One notable difference is that learning computer science is more effective with a hands-on approach rather than a standard visual and auditory learning approach. This is where the pedagogy for this class, interestingly named “Athletic Software Engineering” comes into play. The “Athletic Software Engineering” is a distinct method of teaching that requires the student to take initiative and be more proactive in learning course material, which is something that I’ve struggled with in the past since I had a terrible sense of time management. Honestly, this style of teaching would be incredibly useful in the prerequisites for this course, at least for the 200-level courses. So far, I don’t think I am spending enough time learning the material, but I have been practicing on the WOD’s since it's really the only practice problems we have. There also seems to be some long-term benefits with this pedagogy, since it can help students land careers, internships, or even learn new hobbies.
 
