@@ -42,10 +42,10 @@ labels:
 1) JayShortway's Question from [StackOverflow](https://stackoverflow.com/questions/26782856/using-adb-locally-on-device-loopback-shows-no-devices)
 
 <div class="text-center p-4">
-  <img width="800px" 
+  <img width="450px" 
        src="../img/stackoverflow-questions4.png" 
        class="img-thumbnail" >
-  <img width="800px" 
+  <img width="450px" 
        src="../img/stackoverflow-questions5.png" 
        class="img-thumbnail" >
 </div>
