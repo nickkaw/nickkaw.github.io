@@ -4,7 +4,7 @@ type: essay
 title: "Rate My Question"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-08
-published: false
+published: true
 labels:
   - StackOverflow
   - Questions
@@ -23,23 +23,40 @@ labels:
 
 1) pinesyair's Question from [StackOverflow](https://stackoverflow.com/questions/40155427/i-would-like-to-add-to-an-embedded-google-map-a-share-button)
 
+<img src="../img/stackoverflow-questions1.png" class="img-fluid">
+
 2) Rajesh Kumar's Question from [StackOverflow](https://stackoverflow.com/questions/40170854/how-can-i-split-table-text-images-in-pdf-using-jquery)
+
+<img src="../img/stackoverflow-questions2.png" class="img-fluid">
 
 3) Aarav Mewara's Question from [StackOverflow](https://stackoverflow.com/questions/50411320/how-to-integrate-bot-into-skype)
 
+<img src="../img/stackoverflow-questions3.png" class="img-fluid">
+
 ##
 
-	I decided to analyze multiple questions instead of just analyzing a single one, because it is more effective to learn by comparing and contrasting between them. But ultimately, all three of these questions are examples of a “not smart” question since they all share similar flaws. Probably the biggest flaw would be the use of their subject headers. Not only is the subject header using all lowercase spelling, but it is also not that meaningful. Secondly, their style of writing seems very lazy. One does not capitalize the first letter in a sentence, another does not put spaces after a comma, and the last one does not check if their links are working. Lastly, despite having very good questions, they are describing their specific problems using basic and general information. With all these flaws, their questions appear distasteful and might be the reason why people are not viewing or answering them.
+  I decided to analyze multiple questions instead of just analyzing a single one, because it is more effective to learn by comparing and contrasting between them. But ultimately, all three of these questions are examples of a “not smart” question since they all share similar flaws. Probably the biggest flaw would be the use of their subject headers. Not only is the subject header using all lowercase spelling, but it is also not that meaningful. Secondly, their style of writing seems very lazy. One does not capitalize the first letter in a sentence, another does not put spaces after a comma, and the last one does not check if their links are working. Lastly, despite having very good questions, they are describing their specific problems using basic and general information. With all these flaws, their questions appear distasteful and might be the reason why people are not viewing or answering them.
 
 ## Examples of a "Smart" Question
 
 1) JayShortway's Question from [StackOverflow](https://stackoverflow.com/questions/26782856/using-adb-locally-on-device-loopback-shows-no-devices)
 
+<div class="text-center p-4">
+  <img width="800px" 
+       src="../img/stackoverflow-questions4.png" 
+       class="img-fluid" >
+  <img width="800px" 
+       src="../img/stackoverflow-questions5.png" 
+       class="img-fluid" >
+</div>
+
 2) casolorz's Question from [StackOverflow](https://stackoverflow.com/questions/43668328/on-android-studio-the-inspection-unused-resources-doesnt-work-for-all-module)
+
+<img src="../img/stackoverflow-questions6.png" class="img-fluid">
 
 ##
 
-	Once again I decided to analyze multiple “smart” questions instead of a single one. These questions may contain some minor flaws, but in comparison to the “non smart” example above they are insignificant. Instead we will be focusing on why these questions standout from the “non smart” ones. Starting off with the subject headers, which provide detailed and meaningful information about the problems that they are facing. Raymond’s paper would describe it as “object - deviation”, where the object is the certain thing that is causing the problem, and deviation is the particular problem that they are experiencing. Next, both authors explained in a chronological sequence how they got stuck with the problem, and have explained the ways in which they tried to resolve the problem. Finally, both authors chose to be polite and courteous by thanking in advance to potential individuals that may answer their question.
+  Once again I decided to analyze multiple “smart” questions instead of a single one. These questions may contain some minor flaws, but in comparison to the “non smart” example above they are insignificant. Instead we will be focusing on why these questions standout from the “non smart” ones. Starting off with the subject headers, which provide detailed and meaningful information about the problems that they are facing. Raymond’s paper would describe it as “object - deviation”, where the object is the certain thing that is causing the problem, and deviation is the particular problem that they are experiencing. Next, both authors explained in a chronological sequence how they got stuck with the problem, and have explained the ways in which they tried to resolve the problem. Finally, both authors chose to be polite and courteous by thanking in advance to potential individuals that may answer their question.
 
 ## Conclusion
 
