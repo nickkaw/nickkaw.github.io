@@ -16,7 +16,8 @@
   "interests": [
     { "name": "Data Analysis" },
     { "name": "Software Engineering" },
-    { "name": "Web Development" }
+    { "name": "Web Development" },
+    { "name": "GitHubDesktop Test"}
   ],
   "skills": [
     {
