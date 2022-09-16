@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/bankdb-icon.jpg
 title: "Bank Database"
-date: 2021-11-27
+date: 2021-11
 published: true
 labels:
   - C++
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "A responsive local application that I created for ICS 212."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/bankdb.png">
 
 This Bank Database project is an application I made using C++ in the fall of 2021 for ICS 212. 
 
