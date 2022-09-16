@@ -10,7 +10,7 @@ labels:
   - Software
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/js_logo.png">
+<img class="img-fluid" src="../img/information-technology.jpg">
 
 ## Introduction & Motivation
 
