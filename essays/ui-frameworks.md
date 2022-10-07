@@ -26,10 +26,8 @@ Bootstrap easily adjusts a web page to many different viewing settings in a brow
 ### Examples of Columns in Raw HTML & CSS
 
 <div class="d-flex justify-content-evenly">
-  <div class="container">
-    <img src="../img/raw-columns-75-zoom.png" width=50% class="img-thumbnail">
-    <img src="../img/raw-columns-100-zoom.png" width=50% class="img-thumbnail">
-  </div>
+  <img src="../img/raw-columns-75-zoom.png" width=40% class="img-thumbnail">
+  <img src="../img/raw-columns-100-zoom.png" width=40% class="img-thumbnail">
 </div>
 
 The left image is 75% zoom. The right image is 100% zoom.
@@ -37,10 +35,8 @@ The left image is 75% zoom. The right image is 100% zoom.
 ### Examples of Columns in Bootstrap
 
 <div class="d-flex justify-content-evenly">
-  <div class="container">
-    <img src="../img/bs-columns-75-zoom.png" width=50% class="img-thumbnail">
-    <img src="../img/bs-columns-100-zoom.png" width=50% class="img-thumbnail">
-  </div>
+  <img src="../img/bs-columns-75-zoom.png" width=40% class="img-thumbnail">
+  <img src="../img/bs-columns-100-zoom.png" width=40% class="img-thumbnail">
 </div>
 
 The left image is 75% zoom. The right image is 100% zoom.
