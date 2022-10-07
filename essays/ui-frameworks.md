@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI Frameworks: Save Time. Design Better"
+title: "UI Frameworks: Save Time, Design Better"
 # All dates must be YYYY-MM-DD format!
 date: 2022-10-06
 published: true
