@@ -17,7 +17,7 @@ I can simply say that using UI Frameworks makes it a lot easier to create better
 
 ## First off..
 
-Bootstrap is extremely simple to implement and easy to use. In order to implement Bootstrap (or Bootstrap Icons), we just need to load the Bootstrap CSS and Javascript files (or Bootstrap Icon stylesheet) in the head of the HTML file. To use Bootstrap, we just add a class with shorthand notation to an HTML element. This makes it 100-fold easier to align content, center elements, or space items. In addition, Bootstrap has a dedicated documentation of all of the  properties that can be used to design a web page.
+Bootstrap is extremely simple to implement and easy to use. In order to implement Bootstrap (or Bootstrap Icons), we just need to load the Bootstrap CSS and Javascript files (or Bootstrap Icon stylesheet) in the head of the HTML file. To use Bootstrap, we just add a class with shorthand notation to an HTML element. This makes it 100-fold easier to align content, center elements, or space items. In addition, Bootstrap has a dedicated [documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/) of all of the  properties that can be used to design a web page.
 
 ## Secondly..
 
@@ -25,18 +25,18 @@ Bootstrap easily adjusts a web page to many different viewing settings in a brow
 
 ### Examples of Columns in Raw HTML & CSS
 
-<div class="d-flex justify-content-evenly">
-  <img src="../img/raw-columns-75-zoom.png" width="40%" class="img-thumbnail">
-  <img src="../img/raw-columns-100-zoom.png" width="40%" class="img-thumbnail">
+<div class="d-flex justify-content-evenly p-4">
+  <img src="../img/raw-columns-75-zoom.png" width="50%" class="img-thumbnail">
+  <img src="../img/raw-columns-100-zoom.png" width="50%" class="img-thumbnail">
 </div>
 
 The left image is 75% zoom. The right image is 100% zoom.
 
 ### Examples of Columns in Bootstrap
 
-<div class="d-flex justify-content-evenly">
-  <img src="../img/bs-columns-75-zoom.png" width="40%" class="img-thumbnail">
-  <img src="../img/bs-columns-100-zoom.png" width="40%" class="img-thumbnail">
+<div class="d-flex justify-content-evenly p-4">
+  <img src="../img/bs-columns-75-zoom.png" width="50%" class="img-thumbnail">
+  <img src="../img/bs-columns-100-zoom.png" width="50%" class="img-thumbnail">
 </div>
 
 The left image is 75% zoom. The right image is 100% zoom.
