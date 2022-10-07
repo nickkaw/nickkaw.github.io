@@ -11,8 +11,6 @@ labels:
   - HTML & CSS
 ---
 
-<img src="#">
-
 ## As someone who just started designing web pages a couple of weeks ago, 
 
 I can simply say that using UI Frameworks makes it a lot easier to create better and modern looking websites. Although I only have experience using the Bootstrap framework, it is clear to see how powerful the addition of a framework can be in designing web pages. In this essay, I will share my personal opinions about the many improvements in designing web pages that utilize Bootstrap over raw HTML & CSS. 
@@ -27,15 +25,21 @@ Bootstrap easily adjusts a web page to many different viewing settings in a brow
 
 ### Examples of Columns in Raw HTML & CSS
 
-<img src="#">\
+<div class="d-flex justify-content-evenly">
+  <img src="../img/raw-columns-75-zoom.png" class="img-thumbnail">
+  <img src="../img/raw-columns-100-zoom.png" class="img-thumbnail">
+</div>
 
-The left image is % zoom. The right image is % zoom.
+The left image is 75% zoom. The right image is 100% zoom.
 
 ### Examples of Columns in Bootstrap
 
-<img src="#">
+<div class="d-flex justify-content-evenly">
+  <img src="../img/bs-columns-75-zoom.png" class="img-thumbnail">
+  <img src="../img/bs-columns-100-zoom.png" class="img-thumbnail">
+</div>
 
-The left image is % zoom. The right image is % zoom.
+The left image is 75% zoom. The right image is 100% zoom.
 
 ## Lastly..
 
