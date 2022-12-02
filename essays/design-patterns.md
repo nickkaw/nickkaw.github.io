@@ -17,7 +17,7 @@ As a prelude to this essay, I’d like to take a moment to think about some of t
 
 Although it might be a little difficult to think of patterns generally, a simpler explanation is that these patterns are typical solutions to commonly recurring problems. One thing to note is that not everyone has to follow these patterns. In my case, I do not salt boiling water when cooking pasta noodles, because to me it doesn’t make that big of a difference and also it's a waste of salt. Instead, these patterns depict a general model, design, or guide for others to potentially use and follow. And as a result, a group of developers were inspired by this idea and created the [“Gang of Four” (1994) book](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8), a book around design patterns specifically made for software developers. The book mainly discusses design patterns for C++, however their perspective on patterns continued and expanded to many other aspects of computer science. 
 
-<img class="img-center" src="../img/design-pattern-gof.png">
+<img class="img-fluid" src="../img/design-pattern-gof.png">
 
 ## Importance of Design Patterns in Software Development
 
@@ -29,4 +29,4 @@ There are many kinds of design patterns, but most patterns fall into one of thre
 
 In Manoa Xchange, my team’s web application inspired by craigslist, we use Meteor to incorporate the MVC design pattern. This pattern logically divides the application into three components: model, view, and controller. In our project, we are using MongoDB as our database (model), React to work on the UI design (view), and React Router as the mediator to control what is being displayed when the user interacts with the application (controller). Our project also uses singletons, for every collection that is being exported as an instance. These are just a few of many other examples of design patterns in Manoa Xchange. In conclusion, it is extremely convenient to use these design patterns as they give lots of possible solutions or ideas to solutions in development.
 
-<img class="img-center" src="../img/design-pattern-meme.jpeg">
+<img class="img-fluid" src="../img/design-pattern-meme.jpeg">
