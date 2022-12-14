@@ -4,7 +4,7 @@ type: project
 image: img/bankdb-icon.jpg
 title: "Bank Database"
 date: 2021-11
-published: true
+published: false
 labels:
   - C++
 summary: "A responsive local application that I created for ICS 212."
