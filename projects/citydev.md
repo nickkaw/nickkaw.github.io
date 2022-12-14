@@ -7,7 +7,6 @@ date: 2016-11
 published: true
 labels:
   - Economics
-  - Development
   - Teamwork
 summary: "A mock economic development experience that my team presented in highschool."
 ---
@@ -16,7 +15,7 @@ In this City Development project, my team and I devised, evaluated, and presente
 
 The goal of this simulation was to create and propose a plan to the “city” that will be the most ideal and beneficial to the “community”. Some of the factors that were being measured are: cost of the plan, housing, population, employment, inflation, pollution, concerns from the surrounding communities, and many more. My team competed against other teams to create a plan that the city will select as the plan for the community.
 
-<img class="img-fluid" src="../img/citydev_legomodels.jpg">
+<img class="img-fluid" src="../img/citydev/citydev_legomodels.jpg">
 
 In the image above, we used lego blocks to model our proposed plan. Then we estimated the benefits of our plan using excel. Later on, we presented our finalized plan to a group of judges, which was composed of real economists that worked for the city or state. The judges asked us questions afterwards regarding the decisions that we've made in our plan. After all the groups presented, the judges decided a winning team, who all received a $20 Amazon gift card prize.
 
