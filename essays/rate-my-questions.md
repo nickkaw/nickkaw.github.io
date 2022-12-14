@@ -6,9 +6,9 @@ title: "Rate My Question"
 date: 2022-09-08
 published: true
 labels:
+  - Learning
   - StackOverflow
   - Questions
-  - Learning
 ---
 
 ## "Are there any questions?"
