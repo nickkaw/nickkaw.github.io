@@ -16,7 +16,7 @@ This Cereal Research Project is that I conducted using R Markdown in RStudio in 
 
 The goal of this project was to apply our knowledge of econometrics into a research project. That is to create a question about a relationship between two things, find an appropriate dataset, and then use statistical methods and economic models to prove whether or not that relationship is true.
 
-<img class="img-fluid" src="../img/cereal-scatterplot.png">
+<img class="img-fluid" src="../img/cereal/cereal-scatterplot.png">
 
 Above is an example of one of the stronger relationships that I've regressed, with number of sugars on the x axis, and rating of the cereal on the y axis.
 
