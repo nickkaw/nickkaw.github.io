@@ -7,7 +7,7 @@ date: 2022-10-06
 published: true
 labels:
   - Web Design
-  - Bootstrap
+  - React Bootstrap
   - HTML & CSS
 ---
 
@@ -26,8 +26,8 @@ Bootstrap easily adjusts a web page to many different viewing settings in a brow
 ### Examples of Columns in Raw HTML & CSS
 
 <div class="d-flex justify-content-evenly p-4">
-  <img src="../img/raw-columns-75-zoom.png" width="50%" class="img-thumbnail">
-  <img src="../img/raw-columns-100-zoom.png" width="50%" class="img-thumbnail">
+  <img src="../img/ui-frameworks/raw-columns-75-zoom.png" width="50%" class="img-thumbnail">
+  <img src="../img/ui-frameworks/raw-columns-100-zoom.png" width="50%" class="img-thumbnail">
 </div>
 
 The left image is 75% zoom. The right image is 100% zoom.
@@ -35,8 +35,8 @@ The left image is 75% zoom. The right image is 100% zoom.
 ### Examples of Columns in Bootstrap
 
 <div class="d-flex justify-content-evenly p-4">
-  <img src="../img/bs-columns-75-zoom.png" width="50%" class="img-thumbnail">
-  <img src="../img/bs-columns-100-zoom.png" width="50%" class="img-thumbnail">
+  <img src="../img/ui-frameworks/bs-columns-75-zoom.png" width="50%" class="img-thumbnail">
+  <img src="../img/ui-frameworks/bs-columns-100-zoom.png" width="50%" class="img-thumbnail">
 </div>
 
 The left image is 75% zoom. The right image is 100% zoom.
@@ -45,6 +45,6 @@ The left image is 75% zoom. The right image is 100% zoom.
 
 When designing web pages with Bootstrap it is simple to notice that most of the process is done in HTML and less is done in CSS. This change makes it easier to “visualize” a web page just by looking at the HTML, not that it was difficult before when just using raw HTML. However, when you add raw CSS into the mix, which has all of the styling rules, then it is not as easy to “visualize” a web page by looking at code. In fact, just viewing the web page from the browser would be more simple than swapping between the HTML & CSS tabs. This change also makes CSS become more simple to use, mainly because we do not need to bother with adjusting the margin, border, and padding properties. Now CSS primarily styles the background and color properties, things that usually remain the same in a web page. 
 
-## Conclusion
+## To summarize,
 
-To summarize, there are lots of advantages when designing web pages using UI Frameworks over raw HTML & CSS. As stated above, a UI Framework like Bootstrap can be simple and easy to use, auto adjusts the web page to the viewing settings in browsers, and the ability to visualize a web page when looking at the code. Also, using UI Frameworks creates a more modern looking web page. In fact, I’ve been satisfied with the end product of every web page that I’ve created using Bootstrap. When only using raw HTML & CSS for designing web pages, there are bound to be lots of struggles and frustration along the way, unless if you are looking to create an old-fashioned web page that predates the Windows 7 operating system. 
+There are lots of advantages when designing web pages using UI Frameworks over raw HTML & CSS. As stated above, a UI Framework like Bootstrap can be simple and easy to use, auto adjusts the web page to the viewing settings in browsers, and the ability to visualize a web page when looking at the code. Also, using UI Frameworks creates a more modern looking web page. In fact, I’ve been satisfied with the end product of every web page that I’ve created using Bootstrap. When only using raw HTML & CSS for designing web pages, there are bound to be lots of struggles and frustration along the way, unless you are looking to create an old-fashioned web page that predates the Windows 7 operating system. 
