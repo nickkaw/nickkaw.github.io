@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/manoaxchange-icon2.png
 title: "Manoa Xchange"
 date: 2022-12
 published: true
@@ -12,17 +12,11 @@ labels:
 summary: "My team creating and developed a web application for buying and selling campus related goods between the individuals of UH Manoa."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
-
 In this project, my team and I were tasked to create an application that would help promote and incentivize buying and selling goods between the people of UH Manoa. Since this application is designed for a specific demographic, it allows campus related goods to be reused and repurposed, which ultimately reduces the amount of items that would have potentially been discarded. Essentially we are building a web application that is similar to Craigslist but designed for UH Manoa students, faculty, and alumni.
 
 Manoa Xchange is the application that we created to address the issues above. In our application, we have a marketplace where anybody can view listed items and filter by pre-made categories or search for an item using the search bar. You can click on any item to view more details and/or report an item for sale, but in order to take advantage of the full functionality of our application you will need to register and login using your UH email address. The additional functionality of having an account includes being able to message sellers about an item for sale, listing your own items for sale, browsing other accounts, rating other accounts, viewing the items for sale of other accounts, and setting up a profile. Administrators are capable of viewing listed items that have been reported and may remove items on the marketplace if deemed inappropriate. Here is a snapshot of our application landing page : 
 
-<img class="img-fluid" src="#">
+<img class="img-fluid" src="../img/manoaxchange/manoaxchange-landing.png">
 
 In this application, I was primarily responsible for everything that involved the user profile. This includes: creating the databases for the profiles and ratings collection; creating the forms for registration new user, editing own profile, and rating a profile; creating the pages (before the website redesign) for registration, user profile, and edit profile; and finally making sure that it all functions correctly. In addition to that I was also responsible for testing every page and form of our application using TestCafe. Out of all of the accomplishments, I felt very proud after finally completing the rating system (which I believe is a very clever implementation). 
 
