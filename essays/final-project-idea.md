@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: "Final Project Idea - UHM Food Hunter"
 date: 2022-11-01
+published: false
 labels:
   - Software Engineering
   - Meteor
