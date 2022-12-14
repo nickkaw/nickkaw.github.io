@@ -6,8 +6,8 @@ title: "Struggles of Language Acquisition"
 date: 2022-08-31
 published: true
 labels:
-  - Javascript
   - Learning
+  - Javascript
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/language-acquisition/js_logo.png">
