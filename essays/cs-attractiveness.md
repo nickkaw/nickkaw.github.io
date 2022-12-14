@@ -6,8 +6,8 @@ title: "Computer Science Attractiveness"
 date: 2022-08-31
 published: true
 labels:
-  - Computers
-  - Software
+  - Computer Science
+  - Inspiration
 ---
 
 <img class="img-fluid" src="../img/cs-attractiveness/information-technology.jpg">
