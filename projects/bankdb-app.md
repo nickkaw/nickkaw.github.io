@@ -10,7 +10,7 @@ labels:
 summary: "A responsive local application that I created for ICS 212."
 ---
 
-<img class="img-fluid" src="../img/bankdb.png">
+<img class="img-fluid" src="../img/bankdb-app/bankdb.png">
 
 This Bank Database project is an application I made using C++ in the fall of 2021 for ICS 212. 
 
