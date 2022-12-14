@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/manoaxchange-icon2.png
+image: img/manoaxchange-icon.png
 title: "Manoa Xchange"
 date: 2022-12
 published: true
