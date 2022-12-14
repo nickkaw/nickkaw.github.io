@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "R", "Javascript" ]
+      "keywords": [ "C", "C++", "R", "Javascript", "React Bootstrap", "Meteor" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "WindowsOS", "Git/GitHub", "g++",  ]
+      "keywords": [ "WindowsOS", "Git/GitHub" ]
     }
   ],
   "education": [
