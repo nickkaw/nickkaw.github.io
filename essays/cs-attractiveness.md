@@ -10,13 +10,13 @@ labels:
   - Software
 ---
 
-<img class="img-fluid" src="../img/information-technology.jpg">
+<img class="img-fluid" src="../img/cs-attractiveness/information-technology.jpg">
 
-## Introduction & Motivation
+## Motivation in this field of study.
 
 In this day and age, much of our daily lives revolve around looking at a screen, whether it be a computer, a laptop, a phone, a console, heck even a cash register’s POS system. With more and more people exposed to modern technology, it makes a person with any computer skills more compelling and attractive to future employers. However, those with a computer science degree are on a completely different level of attractiveness. For myself, an economics major who aspires to do some sort of data analytics in the future, the addition of a computer science background would be a huge boost in my attractiveness. Ultimately, there is a high demand for computer science engineers, but that alone is not the reason why I choose to study it.
 	
-Originally, I wanted to study computer science because I was interested in creating games. I’m sure I wasn’t the only one who said, “I want to make a game,” at some point in their lives. However, I took a long break from learning computer science during my second semester of college when I completely lost interest. It wasn’t until the spring of the previous year when I decided to revisit coding in one of my economics related course, data visualization. From then I realized that there is so much more to this field than just games. Now that I’ve regained interest, I want to learn the creation of applications and websites, which is coincidentally related to this course.
+Originally, I wanted to study computer science because I was interested in creating games. I’m sure I wasn’t the only one who said, “I want to make a game,” at some point in their lives. However, I took a long break from learning computer science during the spring of 2019 of college when I completely lost interest. It wasn’t until the spring of 2021, when I decided to revisit coding in one of my economics related courses, data visualization. From then I realized that there is so much more to this field than just games. Now that I’ve regained interest, I want to learn the creation of applications and websites, which is coincidentally related to this course.
 
 ## Why this course?
 
