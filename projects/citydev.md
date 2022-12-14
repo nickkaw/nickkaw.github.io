@@ -11,7 +11,7 @@ labels:
 summary: "A mock economic development experience that my team presented in highschool."
 ---
 
-In this City Development project, my team and I devised, evaluated, and presented our economic development plan for a portion of a mock neighborhood. This occured during my highschool’s Advanced Placement Economics class, and it was one of my favorite projects of all time. 
+In this City Development project, my team and I devised, evaluated, and presented our economic development plan for a portion of a mock neighborhood. This occurred during my highschool’s Advanced Placement Economics class, and it was one of my favorite projects of all time. 
 
 The goal of this simulation was to create and propose a plan to the “city” that will be the most ideal and beneficial to the “community”. Some of the factors that were being measured are: cost of the plan, housing, population, employment, inflation, pollution, concerns from the surrounding communities, and many more. My team competed against other teams to create a plan that the city will select as the plan for the community.
 
