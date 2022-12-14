@@ -18,7 +18,7 @@ The goal of this project was to apply our knowledge of econometrics into a resea
 
 <img class="img-fluid" src="../img/cereal/cereal-scatterplot.png">
 
-Above is an example of one of the stronger relationships that I've regressed, with number of sugars on the x axis, and rating of the cereal on the y axis.
+Above is an example of one of the stronger relationships that I've regressed, with the number of sugars on the x axis, and rating of the cereal on the y axis.
 
 Although I’ve used RStudio before, it was the first time using R Markdown or any implementation of Markdown. Markdown is a simple plain text editor that is useful for creating documents. R Markdown differs by the fact that you can insert blocks of R code/script into the Markdown, making it easier to add code, graphs, and more into a seamless and fluid document.
 
