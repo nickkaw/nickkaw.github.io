@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="The Patterns in Life and Development | Nicholas Kaw | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/nickkaw.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Nicholas Kaw | Professional Portfolio">
+    <meta property="og:url" content="https://nickkaw.github.io/essays/design-patterns.html">
+    <meta property="og:title" content="The Patterns in Life and Development | Nicholas Kaw | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/nickkaw.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>The Patterns in Life and Development | Nicholas Kaw | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Nicholas Kaw</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">The Patterns in Life and Development</h1>
+  <span class="date">01 Dec 2022</span>
+  <hr>
+  <h2 id="abstract-patterns-in-life">Abstract Patterns in Life</h2>
+
+<p>As a prelude to this essay, I’d like to take a moment to think about some of the general patterns that we follow in life. No, I’m not talking about your personal lifestyle habits (although it might be), I’m talking about the patterns people might do after hearing or seeing someone else do it. Many examples of these types of patterns occur in cooking. For instance when boiling pasta noodles, cooking influencers tend to emphasize putting lots of salt in the water. A different example appears in song writing. For example, there are many song lyrics that are typically structured in a verse-chorus, verse-chorus, bridge-chorus arrangement. These are some of my examples of general patterns that occur throughout many people’s everyday lives. Do you have any that you would like to share? I can assure you that every person follows a pattern, we are just instinctively performing them without realizing it.</p>
+
+<p>Although it might be a little difficult to think of patterns generally, a simpler explanation is that these patterns are typical solutions to commonly recurring problems. One thing to note is that not everyone has to follow these patterns. In my case, I do not salt boiling water when cooking pasta noodles, because to me it doesn’t make that big of a difference and also it’s a waste of salt. Instead, these patterns depict a general model, design, or guide for others to potentially use and follow. And as a result, a group of developers were inspired by this idea and created the <a href="https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8"><strong>“Gang of Four” (1994) book</strong></a>, a book around design patterns specifically made for software developers. The book mainly discusses design patterns for C++, however their perspective on patterns continued and expanded to many other aspects of computer science.</p>
+
+<p><img class="img-fluid" src="../img/design-patterns/design-pattern-gof.png" /></p>
+
+<h2 id="importance-of-design-patterns-in-software-development">Importance of Design Patterns in Software Development</h2>
+
+<p>Design patterns are significantly important in software development. As developers, we are always trying to solve problems quickly with the least amount of headaches, bugs, and errors. However, just starting to build a possible solution from a blank screen is difficult. This is where design patterns come to the rescue. A design pattern is a template that can be used in many different situations to guide how the problem should be addressed. Essentially developers can use these design patterns to efficiently produce solutions and reduce errors that might have occurred.</p>
+
+<h2 id="types-of-design-patterns--examples-in-manoa-xchange">Types of Design Patterns &amp; Examples in Manoa Xchange</h2>
+
+<p>There are many kinds of design patterns, but most patterns fall into one of three categories: creational patterns, structural patterns, and behavioral patterns. Creational patterns deal with the creation of an object. Structural patterns deal with the representation of objects or class structure. Behavioral patterns deal with the management and interaction between objects. One  of the most popular design patterns used for web application is the Model-View-Controller (MVC), which is actually a combination of creational and behavioral (and possibly structural if applicable).</p>
+
+<p>In Manoa Xchange, my team’s web application inspired by craigslist, we use Meteor to incorporate the MVC design pattern. This pattern logically divides the application into three components: model, view, and controller. In our project, we are using MongoDB as our database (model), React to work on the UI design (view), and React Router as the mediator to control what is being displayed when the user interacts with the application (controller). Our project also uses singletons, for every collection that is being exported as an instance. These are just a few of many other examples of design patterns in Manoa Xchange. In conclusion, it is extremely convenient to use these design patterns as they give lots of possible solutions or ideas to solutions in development.</p>
+
+<p><img class="img-fluid" src="../img/design-patterns/design-pattern-meme.jpeg" /></p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

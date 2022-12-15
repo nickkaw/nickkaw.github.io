@@ -1,0 +1,63 @@
+{
+  "basics": {
+    "name": "Nicholas Kaw",
+    "label": "Student",
+    "picture": "https://github.com/nickkaw.png",
+    "email": "kawn@hawaii.edu",
+    "phone": "808-724-1128",
+    "website": "https://nickkaw.github.io",
+    "summary": "I am studying for a B.A. in Economics and a minor in Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2023.",
+    "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "nickkaw", "url": "http://github.com/nickkaw" },
+      { "network": "linkedin", "username": "nicholas-kaw", "url": "http://linkedin.com/in/nicholas-kaw-478143186" }
+    ]
+  },
+  "interests": [
+    { "name": "Economics" },
+    { "name": "Data Analysis" },
+    { "name": "Software Engineering" },
+    { "name": "Web Development"}
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "R", "Javascript", "React Bootstrap", "Meteor" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "WindowsOS", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Economics (expected Spring, 2023)",
+      "studyType": "B.A.",
+      "startDate": "2018",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Times Supermarket",
+      "position": "Produce Clerk",
+      "website": "",
+      "startDate": "2021-06-08",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Stocks and rotates produce items, trimming items in need to maintain freshness",
+        "Maintain sanitary standards in all areas of the department",
+        "Work well with a team in order to provide items and serve quality customer service"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
