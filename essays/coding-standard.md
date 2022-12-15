@@ -15,7 +15,7 @@ labels:
 
 ## Previously…
 
-In the [Bank Database Project](https://nickkaw.github.io/projects/bankdb-app.html), I had briefly talked about my take on coding standards. To restate, I believe that coding standards are crucial in organizing and formatting code into readable sections. However when it comes to learning a programming language, I do not think that coding standards necessarily help in that regard. This is because in my opinion, coding standards are more of a stylistic technique used to create uniformity in code among multiple programmers.
+In the [**Bank Database Project**](https://nickkaw.github.io/projects/bankdb-app.html), I had briefly talked about my take on coding standards. To restate, I believe that coding standards are crucial in organizing and formatting code into readable sections. However when it comes to learning a programming language, I do not think that coding standards necessarily help in that regard. This is because in my opinion, coding standards are more of a stylistic technique used to create uniformity in code among multiple programmers.
 
 ## ESLint
 
@@ -29,4 +29,4 @@ In addition to being introduced to ESLint, we have also been introduced to the I
 
 While I do think that coding standards do help to make code easier to read, I do not really think that it helps us learn a programming language because it focuses on styling code rather than the functionality of code. As I’ve experienced using ESLint in IntelliJ for the past week, I do have questions regarding certain practicality and consistency problems in ESLint. However when it comes to the automation ESLint setting in IntelliJ, it can prove to be quite a nuisance for me. Hopefully, this experience is just a short-term issue, and as we practice more using ESLint and IntelliJ, it won’t be as big of a deal.
 
-Image is from this [reddit post](https://www.reddit.com/r/ProgrammerHumor/comments/uin1ju/which_one_are_you/). 
+Image is from this [**reddit post**](https://www.reddit.com/r/ProgrammerHumor/comments/uin1ju/which_one_are_you/). 
