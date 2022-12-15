@@ -22,5 +22,5 @@ Above is an example of one of the stronger relationships that I've regressed, wi
 
 Although I’ve used RStudio before, it was the first time using R Markdown or any implementation of Markdown. Markdown is a simple plain text editor that is useful for creating documents. R Markdown differs by the fact that you can insert blocks of R code/script into the Markdown, making it easier to add code, graphs, and more into a seamless and fluid document.
 
-Here is a [<u>link</u>](https://github.com/nickkaw/cereal-econ425/blob/main/ResearchProj.md) to the document in github.
+Here is a [**link**](https://github.com/nickkaw/cereal-econ425/blob/main/ResearchProj.md) to the document in github.
 
