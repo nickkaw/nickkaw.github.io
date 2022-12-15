@@ -17,7 +17,7 @@ I can simply say that using UI Frameworks makes it a lot easier to create better
 
 ## First off..
 
-Bootstrap is extremely simple to implement and easy to use. In order to implement Bootstrap (or Bootstrap Icons), we just need to load the Bootstrap CSS and Javascript files (or Bootstrap Icon stylesheet) in the head of the HTML file. To use Bootstrap, we just add a class with shorthand notation to an HTML element. This makes it 100-fold easier to align content, center elements, or space items. In addition, Bootstrap has a dedicated [documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/) of all of the  properties that can be used to design a web page.
+Bootstrap is extremely simple to implement and easy to use. In order to implement Bootstrap (or Bootstrap Icons), we just need to load the Bootstrap CSS and Javascript files (or Bootstrap Icon stylesheet) in the head of the HTML file. To use Bootstrap, we just add a class with shorthand notation to an HTML element. This makes it 100-fold easier to align content, center elements, or space items. In addition, Bootstrap has a dedicated [**documentation**](https://getbootstrap.com/docs/5.0/getting-started/introduction/) of all of the  properties that can be used to design a web page.
 
 ## Secondly..
 
