@@ -21,15 +21,15 @@ Now that I’m thinking back, it is interesting observing the differences betwee
 
 ## Examples of a "Not Smart" Question:
 
-1) pinesyair's Question from [StackOverflow](https://stackoverflow.com/questions/40155427/i-would-like-to-add-to-an-embedded-google-map-a-share-button)
+1) pinesyair's Question from [**StackOverflow**](https://stackoverflow.com/questions/40155427/i-would-like-to-add-to-an-embedded-google-map-a-share-button)
 
 <img src="../img/rate-my-questions/stackoverflow-questions1.png" class="img-fluid">
 
-2) Rajesh Kumar's Question from [StackOverflow](https://stackoverflow.com/questions/40170854/how-can-i-split-table-text-images-in-pdf-using-jquery)
+2) Rajesh Kumar's Question from [**StackOverflow**](https://stackoverflow.com/questions/40170854/how-can-i-split-table-text-images-in-pdf-using-jquery)
 
 <img src="../img/rate-my-questions/stackoverflow-questions2.png" class="img-fluid">
 
-3) Aarav Mewara's Question from [StackOverflow](https://stackoverflow.com/questions/50411320/how-to-integrate-bot-into-skype)
+3) Aarav Mewara's Question from [**StackOverflow**](https://stackoverflow.com/questions/50411320/how-to-integrate-bot-into-skype)
 
 <img src="../img/rate-my-questions/stackoverflow-questions3.png" class="img-fluid">
 
@@ -39,7 +39,7 @@ I decided to analyze multiple questions instead of just analyzing a single one, 
 
 ## Examples of a "Smart" Question:
 
-1) JayShortway's Question from [StackOverflow](https://stackoverflow.com/questions/26782856/using-adb-locally-on-device-loopback-shows-no-devices)
+1) JayShortway's Question from [**StackOverflow**](https://stackoverflow.com/questions/26782856/using-adb-locally-on-device-loopback-shows-no-devices)
 
 <div class="text-center p-4">
   <img width="450px" 
@@ -50,7 +50,7 @@ I decided to analyze multiple questions instead of just analyzing a single one, 
        class="img-thumbnail" >
 </div>
 
-2) casolorz's Question from [StackOverflow](https://stackoverflow.com/questions/43668328/on-android-studio-the-inspection-unused-resources-doesnt-work-for-all-module)
+2) casolorz's Question from [**StackOverflow**](https://stackoverflow.com/questions/43668328/on-android-studio-the-inspection-unused-resources-doesnt-work-for-all-module)
 
 <img src="../img/rate-my-questions/stackoverflow-questions6.png" class="img-fluid">
 
