@@ -1,113 +1,97 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Nicholas Kaw",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/nickkaw.png",
+    "email": "nickaw808@gmail.com",
+    "phone": "808-724-1128",
+    "website": "https://nickkaw.github.io",
+    "summary": "Aspiring data analyst. Graduated from the University of Hawaii at Manoa with Bachelors in Economics and a minor in Computer Science in the Spring of 2023.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "nickkaw", "url": "http://github.com/nickkaw" },
+      { "network": "linkedin", "username": "nicholas-kaw", "url": "http://linkedin.com/in/nicholas-kaw" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Data Visualization" },
+    { "name": "Statistics" },
+    { "name": "Software Engineering" },
+    { "name": "Web Development" },
+    { "name": "Economics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "Javascript", "React Bootstrap", "Meteor", "R", "C", "C++" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "WindowsOS", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
+      "area": "Economics with Quantitative Economics Concentration",
+      "studyType": "B.A.",
+      "startDate": "2018-08-21",
+      "endDate": "2023-05-12",
+      "courses": [ "Econometrics", "Economic Forecasting", "Contemporary Economic Issues", "Trade Policy and Globalization", "Statistics", "Data Analysis and Visualization"
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "Minor",
+      "startDate": "2018-08-21",
+      "endDate": "2023-05-12",
+      "courses": [ "Software Engineering", "Database Systems"
+      , "Algorithms", "Programming Structure"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Wellington W L Lee CPA, Honolulu, HI",
+      "position": "Administrative Assistant",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2023-09-11",
+      "endDate": "2023-12-08",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Relayed information between phone calls/clients and office staff members",
+        "Sorted, filtered, and neatly organized files for tax office storage, spreadsheets, and databases", 
+        "Formatted emails, documents, and applications for desired use in the next tax season"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "company": "Times Supermarket - McCully Branch, Honolulu, HI",
+      "position": "Produce Clerk",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2021-06-05",
+      "endDate": "2023-01-31",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Stocks and rotates produce items, trimming items in need to maintain freshness",
+        "Assisted in unloading of incoming shipments and planned storage layouts", 
+        "Maintain sanitary standards in all areas of the department",
+        "Communicated effectively with coworkers to provide items and serve quality customer service"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Magna Cum Laude",
+      "date": "May 2023",
+      "awarder": "Univeristy of Hawaii at Manoa",
+      "summary": "Academic achievement for graduating seniors who have completed at least 30 credit hours of work with a 3.75 - 3.9 cummulative GPA."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "Fall 2018, Spring 2019, Fall 2019, Fall 2020, Spring 2021, Fall 2021",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Academic achievement for students who earn a GPA of 3.5 or higher based on 12 or more credits taken for a letter grade during a semester."
     }
   ],
   "references": [
